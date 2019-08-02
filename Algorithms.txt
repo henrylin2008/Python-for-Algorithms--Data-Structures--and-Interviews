@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww12600\viewh10200\viewkind0
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\qj\partightenfactor0
+\ls1\ilvl0
+\f0\fs24 \cf0 {\listtext	1.	}Depth First Search\
+{\listtext	2.	}Breadth First Search\
+{\listtext	3.	}Matching Parenthesis \
+{\listtext	4.	}Hash Tables\
+{\listtext	5.	}Variables/pointers manipulation\
+{\listtext	6.	}Reversing Link list\
+{\listtext	7.	}Sorting Fundamentals\
+{\listtext	8.	}Recursion \
+{\listtext	9.	}Custom Data Structures\
+{\listtext	10.	}Binary Search\
+}
